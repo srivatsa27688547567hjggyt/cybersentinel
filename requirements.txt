@@ -8,3 +8,5 @@ python-dotenv==1.0.1
 # For Gemini Pro API integration (Google's genai)
 google-generativeai==0.4.1
 ipwhois
+folium
+streamlit-folium
